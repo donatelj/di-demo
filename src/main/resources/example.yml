@@ -1,0 +1,33 @@
+# this is a comment
+
+name: Jean
+names: #Comment
+  - Jean-Michel
+  - Marc
+  - Paul
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: My House
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, False
+
+string_val: "This is a quote"
+
+include_new_lines: |
+  asdfsaf
+  asgsagfs
+  asfggfhd
+
+ignore_new_lines: >
+  this is
+  a new
+  line
